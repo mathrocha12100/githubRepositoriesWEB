@@ -1,3 +1,5 @@
+### `Resumo`
+
 Básicamente uma aplicação web que busca usuarios e repositorios do github utilizando a API do github.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
