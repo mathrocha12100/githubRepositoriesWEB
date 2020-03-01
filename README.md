@@ -8,9 +8,13 @@ Básicamente uma aplicação web que busca usuarios e repositorios do github uti
 
 ![](result/result1.png)
 
-## Tela do Repositorio
+## Tela do repositorio
 
 ![](result/result2.png)
+
+## Em pratica
+
+![](result/webGitHub.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
