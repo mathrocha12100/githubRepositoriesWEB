@@ -1,6 +1,6 @@
 # Resumo
 
-Basicamente uma aplicação web que busca usuarios e repositorios do github utilizando a API do github.
+Basicamente uma aplicação web que busca repositorios do github utilizando a API do github.
 
 # Resultado
 
